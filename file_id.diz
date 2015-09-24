@@ -1,0 +1,3 @@
+This program toggles the "dirty" status bit on an
+HPFS drive, allowing one to avoid having to run
+CHKDSK when needed or (for good reason) desired.
